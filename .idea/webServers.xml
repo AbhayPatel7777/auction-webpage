@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b375e33e-769b-480d-a9bb-1f15ac7034ac" name="php.scweb.ca">
+        <fileTransfer rootFolder="/home4/apatel10/public_html/auction" accessType="SFTP" host="php.scweb.ca" port="22" sshConfigId="2bac54db-e59c-4240-98a7-3ceca0c98a51" sshConfig="apatel10@php.scweb.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
